@@ -7760,3 +7760,9 @@
 [2021-09-10T10:27:18.896] [DEBUG] api - GET /news/nav/detail/2
 [2021-09-10T10:27:18.898] [DEBUG] api - GET /news/page
 [2021-09-10T10:27:18.899] [DEBUG] api - GET /news/nav/detail/2
+[2021-09-11T17:15:05.990] [DEBUG] api - GET /admin/whoami/13
+[2021-09-11T17:15:06.026] [DEBUG] api - GET /nav/info
+[2021-09-11T17:15:06.031] [DEBUG] api - GET /news/all
+[2021-09-11T17:15:06.212] [DEBUG] api - GET /news/all
+[2021-09-11T17:15:17.707] [DEBUG] api - GET /news/all
+[2021-09-11T17:15:17.761] [DEBUG] api - GET /news/page

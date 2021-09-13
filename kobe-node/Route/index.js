@@ -8,8 +8,8 @@ const app = express();
 const path = require('path')
 // const public = path.resolve(__dirname,'../client/kobe.vue/public')
 
-// const histroy = require('connect-history-api-fallback');
-// app.use(histroy())
+const histroy = require('connect-history-api-fallback');
+app.use(histroy())
 //跨域中间件
 const cors = require('cors');
 const cookieParser = require('cookie-parser')
